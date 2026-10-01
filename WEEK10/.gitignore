@@ -1,0 +1,11 @@
+*.o
+*.exe
+mfms
+
+data/*.txt
+data/*.dat
+!data/.gitkeep
+
+.DS_Store
+Thumbs.db
+*.swp
